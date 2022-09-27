@@ -10,7 +10,8 @@ After installation, go to Tools/boards and select NodeMCU 1.0
 ![image](https://user-images.githubusercontent.com/41597923/192610593-cd122ef3-d9be-4b51-b48f-70137d9a4ce6.png)
 
 Last, go to the port selection and select the right port you plug in
-![image](https://user-images.githubusercontent.com/41597923/192610799-62d61372-170d-4e12-a4a4-24afc5484632.png)
+![image](https://user-images.githubusercontent.com/41597923/192611018-212a8a3a-4428-4fb9-9b79-0cfd162136d5.png)
+
 
 
 
