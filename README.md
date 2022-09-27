@@ -31,7 +31,7 @@ An photodiode frequency reader build based on LTC1050 amplifier and ESP8266
 
 
 
-# BlinkingLED_esp8266
+# esp8266_blinking
 --Design for SSVEP signal experiments
 A simple NodeMCU based code that makes LED blink at certain frequency
 
