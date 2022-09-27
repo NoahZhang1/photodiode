@@ -1,6 +1,6 @@
 ### Quick Start
 
-Go to File/Preference and paste this url (http://arduino.esp8266.com/stable/package_esp8266com_index.json) to the additional board manager ur
+Go to File/Preference and paste this url (http://arduino.esp8266.com/stable/package_esp8266com_index.json) to the additional board manager
 ![image](https://user-images.githubusercontent.com/41597923/192609700-5f04c9fc-1ad6-4b0d-815b-82b21585d8ec.png)
 
 Go to Tools/boards/board manager, search esp8266 and install it 
